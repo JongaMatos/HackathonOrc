@@ -8,7 +8,7 @@ Consiste em uma cópia com as funcionalidades básicas do Twitter, para que os m
 
 https://hackathon-time2-front.netlify.app
 
-## 👉 Equipe 2
+## 👉 Equipe 2-----
 
 João Gabriel de Matos - Dev <br>
 João Victor Teixeira Batista - Dev <br>
